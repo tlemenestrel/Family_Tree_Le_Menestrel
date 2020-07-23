@@ -1,0 +1,15 @@
+Josette Carré + Jean Rageot 
+ c: Sophie Le Menestrel
+Alain Le Menestrel + ?
+ c: Charles Le Menestrel
+Charles Le Menestrel + Sophie Le Menestrel
+ c: Thomas Le Menestrel, Paul Le Menestrel
+ n: blah blah blah blah blah
+Charles Le Menestrel
+ n: Mari de Charles Le Menestrel et mère de Thomas et Paul Le Menestrel
+Sophie Le Menestrel
+ n: Femme de Charles Le Menestrel et mère de Thomas et Paul Le Menestrel
+Thomas Le Menestrel
+ l: 2000 - Present
+Paul Le Menestrel
+ l: 1993 - Present
