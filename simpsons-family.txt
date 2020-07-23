@@ -1,3 +1,7 @@
+Josette Carré + Jean Rageot 
+ c: Sophie Le Menestrel
+Alain Le Menestrel + ?
+ c: Charles Le Menestrel
 Charles Le Menestrel + Sophie Le Menestrel
  c: Thomas Le Menestrel, Paul Le Menestrel
  n: blah blah blah blah blah
