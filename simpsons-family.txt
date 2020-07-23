@@ -7,6 +7,5 @@ Sophie Le Menestrel
  n: Femme de Charles Le Menestrel et mère de Thomas et Paul Le Menestrel
 Thomas Le Menestrel
  l: 2000 - Present
-Paul Le Menestrel#older 
+Paul Le Menestrel
  l: 1993 - Present
-
