@@ -1,0 +1,38 @@
+Josette Carré + Jean Rageot 
+ c: Sophie Le Menestrel
+
+Alain Le Menestrel + ?
+ c: Charles Le Menestrel, Geneviève Manas
+
+Geneviève Manas + Arnaud Manas
+ c: Emmanuelle Manas, Noémie Manas, Henry Manas
+
+Arnaud Manas
+ n: Mari de Geneviève Manas et père de Emmanuelle, Noémie et Henry Manas
+
+Geneviève Manas
+ n: Femme de Arnaud Manas et mère de Emmanuelle, Noémie et Henry Manas
+
+Emmanuelle Manas
+ l: 2000 - Present
+
+Noémie Manas
+ l: 2000 - Present
+
+Henry Manas
+ l: 2000 - Present
+
+Charles Le Menestrel + Sophie Le Menestrel
+ c: Thomas Le Menestrel, Paul Le Menestrel
+
+Charles Le Menestrel
+ n: Mari de Sophie Le Menestrel et mère de Thomas et Paul Le Menestrel
+
+Sophie Le Menestrel
+ n: Femme de Charles Le Menestrel et mère de Thomas et Paul Le Menestrel
+
+Thomas Le Menestrel
+ l: 2000 - Present
+
+Paul Le Menestrel
+ l: 1993 - Present
