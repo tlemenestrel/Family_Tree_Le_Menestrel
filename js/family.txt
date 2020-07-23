@@ -2,16 +2,16 @@ Josette Carré + Jean Rageot
  c: Sophie Le Menestrel
 
 Alain Le Menestrel + ?
- c: Charles Le Menestrel
+ c: Charles Le Menestrel, Geneviève Manas
 
 Geneviève Manas + Arnaud Manas
  c: Emmanuelle Manas, Noémie Manas, Henry Manas
 
 Arnaud Manas
- c: Mari de Geneviève Manas et père de Emmanuelle, Noémie et Henry Manas
+ n: Mari de Geneviève Manas et père de Emmanuelle, Noémie et Henry Manas
 
 Geneviève Manas
- c: Femme de Arnaud Manas et mère de Emmanuelle, Noémie et Henry Manas
+ n: Femme de Arnaud Manas et mère de Emmanuelle, Noémie et Henry Manas
 
 Emmanuelle Manas
  l: 2000 - Present
